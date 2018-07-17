@@ -8,5 +8,6 @@ This project aims to implement the core of Snorkel in hardware. To improve engin
 
 ## Snorkel Tutorial (~ 2 weeks)
 * [Paper](https://arxiv.org/pdf/1711.10160.pdf)
+* [Data Programming tutorial, borrowed from CS 224 U](https://github.com/cgpotts/cs224u/blob/master/data_programming.ipynb)
 * [Lite Implementation, borrowed from CS 224U](https://github.com/cgpotts/cs224u/blob/master/tf_snorkel_lite.py) (~ 1 week)
 * [Full Implementation, borrowed from Snorkel github repo](https://github.com/HazyResearch/snorkel)
